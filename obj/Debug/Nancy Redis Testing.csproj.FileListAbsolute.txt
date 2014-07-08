@@ -1,0 +1,18 @@
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\obj\Debug\Nancy Redis Testing.csprojResolveAssemblyReference.cache
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy Redis Testing.dll.config
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy Redis Testing.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy Redis Testing.pdb
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.Hosting.Aspnet.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.RedisSessionProvider.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.ViewEngines.Razor.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\StackExchange.Redis.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.RedisSessionProvider.pdb
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.xml
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.Hosting.Aspnet.xml
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\Nancy.ViewEngines.Razor.xml
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\StackExchange.Redis.xml
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\obj\Debug\Nancy Redis Testing.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\obj\Debug\Nancy Redis Testing.pdb
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\System.Web.Razor.dll
+C:\Dev\Personal\Nancy Redis Testing\Nancy Redis Testing\bin\System.Web.Razor.xml
